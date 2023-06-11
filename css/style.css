@@ -272,12 +272,14 @@ html, body {
   }
   .header__list li {
     margin-top: 10px;
+    margin-left: 0px;
   }
   .header__link {
     font-size: 40px;
   }
   .header__icons {
     margin-top: 25px;
+    margin-left: 0px;
   }
   .header__cart img {
     width: 30px;
